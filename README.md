@@ -1,4 +1,6 @@
-# 🚀 Proyecto DronePilot: Construcción y Control desde Cero  
+# 🚀 DronePilot: Construcción y Control desde Cero  
+
+<img src="images/finish.jpg" alt="Screenshot" height="600"> 
 
 ## 📝 Introducción  
 **DronePilot** es un proyecto desarrollado completamente desde cero para demostrar conocimientos avanzados en todas las fases de construcción de un dron. Desde el ensamblaje del hardware hasta la programación personalizada del sistema de control, este proyecto utiliza un enfoque innovador y experimental.  
@@ -75,6 +77,11 @@ El dron utiliza un chasis **F450**, con un módulo **ESP32** que actúa como cer
 - **Control**: Micro ROS para manejo remoto desde un computador portátil.  
 
 ---
+
+## :camera: Screenshots
+<img src="images/oled.jpg" alt="Screenshot" width="400"> <img src="images/oled2.jpg" alt="Screenshot" width="400">
+<img src="images/frame.jpg" alt="Screenshot" width="400"> <img src="images/estructura.jpg" alt="Screenshot" width="400">
+<img src="images/esp.jpg" alt="Screenshot" height="400"> 
 
 ## 🌟 Planes Futuros  
 
