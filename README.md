@@ -1,6 +1,6 @@
 # 🚀 DronePilot: Construcción y Control desde Cero  
 
-<img src="images/finish.jpg" alt="Screenshot" height="600"> 
+<img src="images/finish2.jpg" alt="Screenshot" height="600"> 
 
 ## 📝 Introducción  
 **DronePilot** es un proyecto desarrollado completamente desde cero para demostrar conocimientos avanzados en todas las fases de construcción de un dron. Desde el ensamblaje del hardware hasta la programación personalizada del sistema de control, este proyecto utiliza un enfoque innovador y experimental.  
